@@ -8,5 +8,5 @@ The list contains the following documents, each containing MSc topics per gradua
 *  ddcdm2022
 
 The graduate programs listed above are the following.
-*  **ACS:** _Advanced Computing Systems_. ICE, University of West Attica.
-*  **DDCDM:**  _Decision Driven Computing and Decision Making_. CEID, University of Patras.
+*  **ACS:** _Advanced Computing Systems_. ICE, University of West Attica, Greece.
+*  **DDCDM:**  _Decision Driven Computing and Decision Making_. CEID, University of Patras, Greece.
