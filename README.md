@@ -12,6 +12,7 @@ The list contains the following documents, each containing MSc topics per gradua
 **DDCDM:**  _Decision Driven Computing and Decision Making_. CEID, University of Patras, Greece \[[site](https://ddcdm.ceid.upatras.gr/en/641-2/)\].
 *  [ddcdm_2022](https://github.com/drakop/msc_topics/blob/main/ddcdm_2022.pdf)
 *  [ddcdm_2021](https://github.com/drakop/msc_topics/blob/main/ddcdm_2021.pdf)
+*  [ddcdm_2019](https://github.com/drakop/msc_topics/blob/main/ddcdm_2019.pdf)
 
 **ILS:**  _Informatics of Life Sciences_. Departments of biology, medicine, and pharmacy, and CEID, University of Patras, Greece \[[site](https://pez.upatras.gr/en/home-en/)\].
 
