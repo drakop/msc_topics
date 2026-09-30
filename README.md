@@ -18,5 +18,5 @@ The list contains the following documents, each containing MSc topics per gradua
 *  [ils_2021](https://github.com/drakop/msc_topics/blob/main/ils_2021.pdf): Biological graph mining.
 
 Departments mentioned above:
-*  **CEID:** Computer Engineering and Informatics Department, University of Patras, Greece \[[site](https://www.ceid.upatras.gr/en/)\].
+*  **CEID:** Computer Engineering and Informatics Department, University of Patras, Greece \[[site](https://www.ceid.upatras.gr/en/home/)\].
 *  **ICE:** Informatics and Computer Engineering department, University of West Attica, Greece \[[site](https://ice.uniwa.gr)\].
