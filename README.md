@@ -16,5 +16,5 @@ The list contains the following documents, each containing MSc topics per gradua
 **ILS:**  _Informatics of Life Sciences_. Departments of biology, medicine, and pharmacy, and CEID, University of Patras, Greece \[[site](https://pez.upatras.gr/en/home-en/)\].
 
 Departments mentioned above:
-*  CEID: Computer Engineering and Informatics Department, University of Patras, Greece \[[site](https://www.ceid.upatras.gr)\].
-*  ICE: Informatics and Computer Engineering department, University of West Attica, Greece \[[site](https://ice.uniwa.gr)\].
+*  **CEID:** Computer Engineering and Informatics Department, University of Patras, Greece \[[site](https://www.ceid.upatras.gr)\].
+*  **ICE:** Informatics and Computer Engineering department, University of West Attica, Greece \[[site](https://ice.uniwa.gr)\].
