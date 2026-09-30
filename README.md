@@ -12,7 +12,7 @@ The list contains the following documents, each containing MSc topics per gradua
 **DDCDM:**  _Decision Driven Computing and Decision Making_. CEID, University of Patras, Greece \[[site](https://ddcdm.ceid.upatras.gr/en/641-2/)\].
 *  [ddcdm_2022](https://github.com/drakop/msc_topics/blob/main/ddcdm_2022.pdf): Graph machine learning.
 *  [ddcdm_2021](https://github.com/drakop/msc_topics/blob/main/ddcdm_2021.pdf): Multilayer graph mining.
-*  [ddcdm_2019](https://github.com/drakop/msc_topics/blob/main/ddcdm_2019.pdf): Social network analysis.
+*  [ddcdm_2019](https://github.com/drakop/msc_topics/blob/main/ddcdm_2019.pdf): Social network analysis \[assigned to a student from an integrated BSc-MSc program\].
 
 **ILS:**  _Informatics of Life Sciences_. Departments of biology, medicine, and pharmacy, and CEID, University of Patras, Greece \[[site](https://pez.upatras.gr/en/home-en/)\].
 *  [ils_2021](https://github.com/drakop/msc_topics/blob/main/ils_2021.pdf): Biological graph mining.
