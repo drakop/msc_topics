@@ -15,6 +15,7 @@ The list contains the following documents, each containing MSc topics per gradua
 *  [ddcdm_2019](https://github.com/drakop/msc_topics/blob/main/ddcdm_2019.pdf)
 
 **ILS:**  _Informatics of Life Sciences_. Departments of biology, medicine, and pharmacy, and CEID, University of Patras, Greece \[[site](https://pez.upatras.gr/en/home-en/)\].
+*  [ils_2021](https://github.com/drakop/msc_topics/blob/main/ils_2021.pdf)
 
 Departments mentioned above:
 *  **CEID:** Computer Engineering and Informatics Department, University of Patras, Greece \[[site](https://www.ceid.upatras.gr)\].
