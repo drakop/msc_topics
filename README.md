@@ -19,4 +19,4 @@ The list contains the following documents, each containing MSc topics per gradua
 
 Departments mentioned above:
 *  **CEID:** Computer Engineering and Informatics Department, University of Patras, Greece \[[site](https://www.ceid.upatras.gr/en/home/)\].
-*  **ICE:** Informatics and Computer Engineering department, University of West Attica, Greece \[[site](https://ice.uniwa.gr)\].
+*  **ICE:** Informatics and Computer Engineering department, University of West Attica, Greece \[[site](https://ice.uniwa.gr/en/home/)\].
