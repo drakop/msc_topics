@@ -9,10 +9,12 @@ The list contains the following documents, each containing MSc topics per gradua
 *  acs_2026
 *  [acs_2025](https://github.com/drakop/msc_topics/blob/main/acs_2025.pdf)
 
-ICE: Informatics and Computer Engineering department, University of West Attica, Greece \[[site](https://ice.uniwa.gr)\].
-
 **DDCDM:**  _Decision Driven Computing and Decision Making_. CEID, University of Patras, Greece \[[site](https://ddcdm.ceid.upatras.gr/en/641-2/)\].
 *  [ddcdm_2022](https://github.com/drakop/msc_topics/blob/main/ddcdm_2022.pdf)
 *  [ddcdm_2021](https://github.com/drakop/msc_topics/blob/main/ddcdm_2021.pdf)
 
 **ILS:**  _Informatics of Life Sciences_. Departments of biology, medicine, and pharmacy, and CEID, University of Patras, Greece \[[site](https://pez.upatras.gr/en/home-en/)\].
+
+Departments mentioned above:
+*  CEID: Computer Engineering and Informatics Department, University of Patras, Greece \[[site](https://www.ceid.upatras.gr)\].
+*  ICE: Informatics and Computer Engineering department, University of West Attica, Greece \[[site](https://ice.uniwa.gr)\].
