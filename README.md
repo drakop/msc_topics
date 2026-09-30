@@ -1,11 +1,11 @@
 # msc_topics
 
-List of available MSc topics for the current academic year.
+List of available MSc topics for the current academic year as well as past topics.
 
-The list contains the following documents, each containing MSc topics per graduate program per academic year. The topics pertain to machine learning, graph mining, and linear algebra applied to humanistic data mining including among others social network analysis, smart cities, financial engineering, data storytelling, and computational psychology.
+The list contains the following documents, each containing MSc topics per graduate program per academic year. The topics pertain primarily to machine learning, graph mining, and linear algebra applied to humanistic data mining including among others social network analysis, smart cities, financial engineering, data storytelling, and computational psychology. Notice that for each academic year there are thematic topics reflecting both my interests as well as the focus of the research community. That being said, MSc students are very welcome to propose topics of their own.
 
 **ACS:** _Advanced Computing Systems_. ICE, University of West Attica, Greece \[[site](https://msc-acs.uniwa.gr/)\].
-*  acs_2027
+*  acs_2027 TBA
 *  acs_2026
 *  [acs_2025](https://github.com/drakop/msc_topics/blob/main/acs_2025.pdf)
 
