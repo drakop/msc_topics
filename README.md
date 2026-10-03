@@ -15,7 +15,7 @@ The list contains the following documents, each containing MSc topics per gradua
 *  [ddcdm_2019](https://github.com/drakop/msc_topics/blob/main/ddcdm_2019.pdf): Social network analysis \[assigned to a student from an integrated BSc-MSc program\].
 
 **ILS:**  _Informatics of Life Sciences_. Departments of biology, medicine, and pharmacy, and CEID, University of Patras, Greece \[[site](https://pez.upatras.gr/en/home-en/)\].
-*  [ils_2021](https://github.com/drakop/msc_topics/blob/main/ils_2021.pdf): Biological graph mining.
+*  [ils_2021](https://github.com/drakop/msc_topics/blob/main/ils_2021.pdf): GNNs.
 
 Departments mentioned above:
 *  **ICE:** Informatics and Computer Engineering department, University of West Attica, Greece \[[site](https://ice.uniwa.gr/en/home/)\].
